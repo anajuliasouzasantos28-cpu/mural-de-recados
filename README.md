@@ -1,24 +1,20 @@
-# README
+# Mural de Recados
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Aplicação web desenvolvida em Ruby on Rails para criar, gerenciar e exibir um mural interativo de recados.
 
-Things you may want to cover:
+## 📋 Tópicos de Configuração
 
-* Ruby version
+### Versão Ruby
+Consulte a versão exata do Ruby utilizada no projeto no arquivo [.ruby-version](https://github.com/anajuliasouzasantos28-cpu/mural-de-recados/blob/main/.ruby-version) localizado na raiz do repositório.
 
-* System dependencies
+### Dependências do sistema
+Certifique-se de ter instalado em sua máquina:
+- **Ruby** (conforme especificado no projeto)
+- **Bundler** para o gerenciamento das gems (`gem install bundler`)
+- **SQLite3** (banco de dados padrão)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Configuração
+1. **Clone o repositório:**
+   ```bash
+   git clone url?id=2.git
+   cd mural-de-recados
